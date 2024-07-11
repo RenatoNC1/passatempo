@@ -1,0 +1,9 @@
+#cabe{
+    background-color: brown;
+    background-position: 100%;
+    background-size: 100vw 200vw;
+}
+#title{
+    color: black;
+    font-style: oblique;
+}
