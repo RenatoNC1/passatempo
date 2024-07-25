@@ -1,9 +1,19 @@
-#cabe{
-    background-color: brown;
-    background-position: 100%;
-    background-size: 100vw 200vw;
+.barra{
+    background-color: rgb(183, 0, 255);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+}    
+.titulo{
+    
+    position: fixed;
+    z-index: 2;
+    text-align: center;
+    
 }
-#title{
-    color: black;
-    font-style: oblique;
+.menu{
+    position: relative;
+    z-index: 1;
 }
